@@ -9,4 +9,4 @@
 ## 数据准备
 1. 终端 cd 想下载代码的文件夹
 2. 终端 mkdir dataset
-3. 下载数据https://files.grouplens.org/datasets/movielens/ml-25m.zip储存到dataset文件夹中
+3. 下载数据https://files.grouplens.org/datasets/movielens/ml-25m.zip 储存到dataset文件夹中
